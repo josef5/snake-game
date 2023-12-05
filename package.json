@@ -1,6 +1,9 @@
 {
   "name": "snake_game",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.5.1"
+  },
   "description": "`wasm-pack build --target web`",
   "main": "server/index.js",
   "scripts": {
