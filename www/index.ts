@@ -1,4 +1,4 @@
-import init, { Direction, World, GameStatus } from "../pkg/snake_game";
+import init, { Direction, World, GameStatus } from "snake_game";
 import { rnd } from "./utils/rnd";
 
 init().then((wasm: { memory: { buffer: ArrayBufferLike } }) => {
