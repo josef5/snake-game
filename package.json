@@ -1,5 +1,5 @@
 {
-  "name": "snake_game",
+  "name": "snake_game_server",
   "version": "1.0.0",
   "engines": {
     "node": "20.5.1"
